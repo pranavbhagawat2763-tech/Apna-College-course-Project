@@ -8,7 +8,7 @@ font-family: Arial, sans-serif;
 
 body{
 min-height:100vh;
-background:linear-gradient(to right,#4facfe,#00f2fe);
+background: linear-gradient(to right, #2193b0, #6dd5ed);
 display:flex;
 align-items:center;
 justify-content:center;
@@ -79,4 +79,5 @@ background:#007bff;
 .error{
 color:red;
 font-size:12px;
+
 }
