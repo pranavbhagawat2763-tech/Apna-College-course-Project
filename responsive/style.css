@@ -20,7 +20,7 @@ img{
     margin: 10px 0px 0px 10px;
 }
 body{
-    background-color: #E8E2D8;
+    background-color: #FFFDE1;
 }
 .card:hover{
     background-color: #0C7779;
@@ -34,4 +34,5 @@ p {
 }
 #pets{
     display: flex;
+
 }
